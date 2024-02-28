@@ -1,0 +1,28 @@
+{
+"items":[
+    {
+      "name": "T-Shirt",
+      "image": "https://via.placeholder.com/350x150",
+      "prize": "$10",
+      "rating": 4.5
+    },
+    {
+      "name": "Hoodie",
+      "image": "https://via.placeholder.com/350x150",
+      "prize": "$25",
+      "rating": 4
+    },
+    {
+      "name": "Pants",
+      "image": "https://via.placeholder.com/350x150",
+      "prize": "$15",
+      "rating": 3.5
+    },
+    {
+      "name": "Sneakers",
+      "image": "https://via.placeholder.com/350x150",
+      "prize": "$30",
+      "rating": 4.7
+    }
+  ]
+}
